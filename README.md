@@ -1,16 +1,304 @@
-## Hi there 👋
+# 🚀 Dat Tran Quang (TonyTran) - Frontend Developer
 
-<!--
-**TonyTran198/tonytran198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quangdat.198)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qdat.cts@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Desire to work in a dynamic and professional environment, have access to learn new Frontend technologies for making applications and topics to improve my skills, and contribute to the development of the company and partner."*
+
+</div>
+
+---
+
+## 📋 About Me
+
+Experienced Frontend Developer with **10+ years** of professional experience specializing in **Shopify**, **WordPress**, and **Flutter** development. Passionate about creating responsive, user-friendly web applications and cross-platform mobile solutions. Strong expertise in e-commerce platforms, theme customization, and modern frontend technologies.
+
+### 🏆 Key Highlights
+- **10+ years** of professional frontend development experience
+- **Expert in Shopify** theme development and customization
+- **Flutter Developer** with cross-platform mobile app expertise
+- **Strong portfolio** of e-commerce websites for international clients
+- **Team leadership** experience (Union team, Football Club Captain, Badminton Club Captain)
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Flutter Developer | AGAPI OPEN COMMERCE JOINT STOCK COMPANY
+**Jan 2025 - Present** | Vietnam
+
+- **Designed and implemented** responsive UI with Flutter (Web/iOS) using Loveable AI
+- **Built Database & configured MVVM** architecture for scalable applications
+- **Integrated Firebase services** (Authentication, Firestore, Storage) for real-time data management
+- **Integrated Misa invoice** system for financial management
+- **Developed core modules** including product management, invoice creation, stock tracking, and reporting dashboards
+- **Implemented role-based access control** and multi-tenant data separation
+
+**Technologies:** Flutter, Dart, Firebase, MVVM Architecture, Misa API
+
+### 🏢 Shopify Frontend Developer | FLAGSHIP JAPAN INC
+**Jan 2020 - Mar 2024** | Japan (Remote)
+
+- **Troubleshot, debugged, and deployed** Shopify themes for Japanese clients
+- **Customized frontend** on partner applications
+- **Communicated with Backend team** for bug fixes and API integration
+- **Worked with Staffing** (Hamsa Company) for project coordination
+- **Delivered high-quality** e-commerce solutions for Japanese market
+
+**Technologies:** Shopify, Liquid, JavaScript, HTML5, CSS3, API Integration
+
+### 🏢 Shopify Frontend Developer | HAMSA CORPORATION
+**Mar 2019 - Dec 2024** | Vietnam
+
+- **Troubleshot, debugged, and deployed** existing and new Shopify themes
+- **Customized frontend** on partner applications
+- **Supported other frontend teams** with technical expertise
+- **Maintained and enhanced** multiple Shopify storefronts
+- **Collaborated with cross-functional teams** to deliver projects on time
+
+**Technologies:** Shopify, Liquid, JavaScript, React, Vue.js, HTML5, CSS3
+
+### 🏢 Front Developer | HARAVAN TECHNOLOGY CORPORATION
+**Mar 2017 - Feb 2019** | Vietnam
+
+- **Created layouts** from design files (Figma, Sketch, Zeplin)
+- **Met and discussed** with clients to advise on features and priorities
+- **Fixed bugs and maintained** themes for e-commerce platforms
+- **Improved interfaces** and implemented client requirements
+- **Supported API-related issues** and integrations
+
+**Technologies:** Haravan Platform, HTML5, CSS3, JavaScript, Liquid
+
+### 🏢 Content Writer / SEO Website | SEO HA NOI
+**Feb 2014 - Nov 2015** | Ha Noi, Vietnam
+
+- **Wrote SEO-standard articles** for websites
+- **Implemented keyword SEO** strategies
+- **Optimized content** for search engines
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎯 Frontend Expertise
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Liquid](https://img.shields.io/badge/Liquid-222222?style=for-the-badge&logo=shopify&logoColor=white)
+
+### 🛒 E-commerce Platforms
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Haravan](https://img.shields.io/badge/Haravan-FF6B6B?style=for-the-badge&logo=haravan&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### 🔥 Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FF6B6B?style=for-the-badge&logo=zeplin&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### 🔧 Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🤖 AI Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor's Degree in Information Technology
+**Thuy Loi University** | Ha Noi, Vietnam  
+**Dec 2012 - Mar 2017**
+
+- **GPA:** Average Good
+- **Focus:** Information Technology and Software Development
+
+### 📚 Training Course: PHP Developer
+**NIIT - ICT HA NOI** | Ha Noi, Vietnam  
+**Nov 2016 - Feb 2017**
+
+- **GPA:** Good
+- **Focus:** PHP Development and Web Technologies
+
+---
+
+## 🚀 Featured Projects
+
+### 💊 Drug Management System
+**Flutter + Firebase + Misa API** | Jan 2025 - Present
+
+A comprehensive drug management system with advanced features:
+- **Responsive UI** designed and implemented with Flutter (Web/iOS)
+- **MVVM Architecture** for scalable codebase
+- **Firebase Integration** (Authentication, Firestore, Storage)
+- **Misa Invoice Integration** for financial management
+- **Core Modules:** Product management, invoice creation, stock tracking, reporting dashboards
+- **Role-based access control** and multi-tenant data separation
+
+**Platform:** Flutter + Firebase
+
+---
+
+### 🏪 Familiar Japan E-commerce Website
+**Shopify** | Jul 2021 - Jan 2024
+
+Professional e-commerce website for Japanese market:
+- **Converted code** from Mockup to Shopify platform
+- **Maintained and deployed** new features
+- **Integrated APIs** for seamless functionality
+- **Responsive design** optimized for all devices
+
+[🌐 Live Website](https://familiar.co.jp/)
+
+**Platform:** Shopify
+
+---
+
+### 🏖️ At The Bathhouse Australia
+**Shopify** | Feb 2024 - May 2024
+
+Modern e-commerce website for Australian market:
+- **Converted design** from Figma to Shopify
+- **Maintained and deployed** features
+- **Integrated APIs** for enhanced functionality
+- **Custom theme development**
+
+[🌐 Live Website](https://atthebathhouse.com.au/)
+
+**Platform:** Shopify
+
+---
+
+### 🦈 Shark Tank Vietnam Startup - Amaze Dry Clean
+**WordPress** | Sep 2023 - Nov 2023 | Freelancer
+
+Professional website for Shark Tank Vietnam startup:
+- **Consulted on theme selection** and customization
+- **Maintained and deployed** features
+- **Custom development** for specific requirements
+
+[🌐 Live Website](https://amazedryclean.com/)
+
+**Platform:** WordPress
+
+---
+
+### 📱 Flagship Subscription App
+**Shopify + React + Vue.js** | Jul 2020 - Apr 2021
+
+Internal subscription management application:
+- **Developed and maintained** layout for subscription app
+- **Customized and refined** interface
+- **Cross-platform compatibility**
+
+**Platform:** Shopify, React, Vue.js
+
+---
+
+### 🏢 A.O SMITH VIET NAM Website
+**Haravan** | Oct 2018 - Mar 2019
+
+Corporate website for A.O Smith Vietnam:
+- **Upgraded interface** with modern design
+- **Connected features** using Zeplin designs
+- **Supported API-related issues**
+- **Client consultation** and feature implementation
+
+[🌐 Live Website](https://aosmith.com.vn/)
+
+**Platform:** Haravan
+
+---
+
+### 🍎 HOANGMINH CO., LTD Website
+**Haravan** | Jan 2018 - Apr 2018
+
+E-commerce website for HoangMinh Company:
+- **Improved interface** with better UX/UI
+- **Advised solutions** for client requirements
+- **Theme customization** and optimization
+
+[🌐 Live Website](https://appleworld.vn/)
+
+**Platform:** Haravan
+
+---
+
+## 💪 Soft Skills
+
+- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
+- **Team Building:** Experienced in fostering team connection and positive work culture
+- **Communication:** Good coordination with cross-functional teams
+- **Responsibility:** Proactive and eager to learn new technologies
+- **English:** Basic skills (reading, listening, writing comprehension)
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 🎨 Painting
+- 🏃 Outdoor activities and teamwork activities
+- ✈️ Traveling
+- 🏸 Playing badminton
+- 🏊 Swimming
+- ⚽ Soccer
+- 🏃 Running
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📞 Contact Me
+
+<div align="center">
+
+**Let's build something amazing together!**
+
+📧 **Email:** [qdat.cts@gmail.com](mailto:qdat.cts@gmail.com)  
+📱 **Phone:** 0977.789.697  
+👤 **Facebook:** [facebook.com/quangdat.198](https://www.facebook.com/quangdat.198)  
+🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+📍 **Location:** Tien Thang, Ly Nhan District, Ha Nam Province, Vietnam
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is poetry written in logic"*
+
+⭐ **Feel free to star this repo if you found it helpful!**
+
+</div>
