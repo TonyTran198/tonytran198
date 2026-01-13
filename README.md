@@ -327,14 +327,6 @@ A comprehensive drug management system with advanced features:
 👤 <strong>Facebook:</strong> <a href="https://www.facebook.com/quangdat.198" target="_blank" style="color: #ffffff; text-decoration: none;">facebook.com/quangdat.198</a>
 </div>
 
-<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
-🐙 <strong>GitHub:</strong> <a href="https://github.com/tonytran198" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/tonytran198</a>
-</div>
-
-<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
-📍 <strong>Location:</strong> <span style="color: #ffffff;">Tien Thang, Ly Nhan District, Ha Nam Province, Vietnam</span>
-</div>
-
 </div>
 
 </div>
