@@ -26,39 +26,14 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ## 💼 Professional Experience
 
-### 🏢 Flutter Developer | AGAPI OPEN COMMERCE JOINT STOCK COMPANY
-**Jan 2025 - Present** | Vietnam
+### 🏢 Content Writer / SEO Website | SEO HA NOI
+**Feb 2014 - Nov 2015** | Ha Noi, Vietnam
 
-- **Designed and implemented** responsive UI with Flutter (Web/iOS) using Loveable AI
-- **Built Database & configured MVVM** architecture for scalable applications
-- **Integrated Firebase services** (Authentication, Firestore, Storage) for real-time data management
-- **Integrated Misa invoice** system for financial management
-- **Developed core modules** including product management, invoice creation, stock tracking, and reporting dashboards
-- **Implemented role-based access control** and multi-tenant data separation
+- **Wrote SEO-standard articles** for websites
+- **Implemented keyword SEO** strategies
+- **Optimized content** for search engines
 
-**Technologies:** Flutter, Dart, Firebase, MVVM Architecture, Misa API
-
-### 🏢 Shopify Frontend Developer | FLAGSHIP JAPAN INC
-**Jan 2020 - Mar 2024** | Japan (Remote)
-
-- **Troubleshot, debugged, and deployed** Shopify themes for Japanese clients
-- **Customized frontend** on partner applications
-- **Communicated with Backend team** for bug fixes and API integration
-- **Worked with Staffing** (Hamsa Company) for project coordination
-- **Delivered high-quality** e-commerce solutions for Japanese market
-
-**Technologies:** Shopify, Liquid, JavaScript, HTML5, CSS3, API Integration
-
-### 🏢 Shopify Frontend Developer | HAMSA CORPORATION
-**Mar 2019 - Dec 2024** | Vietnam
-
-- **Troubleshot, debugged, and deployed** existing and new Shopify themes
-- **Customized frontend** on partner applications
-- **Supported other frontend teams** with technical expertise
-- **Maintained and enhanced** multiple Shopify storefronts
-- **Collaborated with cross-functional teams** to deliver projects on time
-
-**Technologies:** Shopify, Liquid, JavaScript, Vue.js, HTML5, CSS3
+---
 
 ### 🏢 Front Developer | HARAVAN TECHNOLOGY CORPORATION
 **Mar 2017 - Feb 2019** | Vietnam
@@ -71,12 +46,45 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 **Technologies:** Haravan Platform, HTML5, CSS3, JavaScript, Liquid
 
-### 🏢 Content Writer / SEO Website | SEO HA NOI
-**Feb 2014 - Nov 2015** | Ha Noi, Vietnam
+---
 
-- **Wrote SEO-standard articles** for websites
-- **Implemented keyword SEO** strategies
-- **Optimized content** for search engines
+### 🏢 Shopify Frontend Developer | HAMSA CORPORATION
+**Mar 2019 - Dec 2024** | Vietnam
+
+- **Troubleshot, debugged, and deployed** existing and new Shopify themes
+- **Customized frontend** on partner applications
+- **Supported other frontend teams** with technical expertise
+- **Maintained and enhanced** multiple Shopify storefronts
+- **Collaborated with cross-functional teams** to deliver projects on time
+
+**Technologies:** Shopify, Liquid, JavaScript, Vue.js, HTML5, CSS3
+
+---
+
+### 🏢 Shopify Frontend Developer | FLAGSHIP JAPAN INC
+**Jan 2020 - Mar 2024** | Japan (Remote)
+
+- **Troubleshot, debugged, and deployed** Shopify themes for Japanese clients
+- **Customized frontend** on partner applications
+- **Communicated with Backend team** for bug fixes and API integration
+- **Worked with Staffing** (Hamsa Company) for project coordination
+- **Delivered high-quality** e-commerce solutions for Japanese market
+
+**Technologies:** Shopify, Liquid, JavaScript, HTML5, CSS3, API Integration
+
+---
+
+### 🏢 Flutter Developer | AGAPI OPEN COMMERCE JOINT STOCK COMPANY
+**Jan 2025 - Present** | Vietnam
+
+- **Designed and implemented** responsive UI with Flutter (Web/iOS) using Loveable AI
+- **Built Database & configured MVVM** architecture for scalable applications
+- **Integrated Firebase services** (Authentication, Firestore, Storage) for real-time data management
+- **Integrated Misa invoice** system for financial management
+- **Developed core modules** including product management, invoice creation, stock tracking, and reporting dashboards
+- **Implemented role-based access control** and multi-tenant data separation
+
+**Technologies:** Flutter, Dart, Firebase, MVVM Architecture, Misa API
 
 ---
 
@@ -153,92 +161,40 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ## 🚀 Featured Projects
 
-### 1. Drug Management System
-**Flutter + Firebase + Misa API** | Jan 2025 - Present
+### 1. HOANGMINH CO., LTD Website
+**Haravan** | Jan 2018 - Apr 2018
 
-A comprehensive drug management system with advanced features:
-- **Responsive UI** designed and implemented with Flutter (Web/iOS)
-- **MVVM Architecture** for scalable codebase
-- **Firebase Integration** (Authentication, Firestore, Storage)
-- **Misa Invoice Integration** for financial management
-- **Core Modules:** Product management, invoice creation, stock tracking, reporting dashboards
-- **Role-based access control** and multi-tenant data separation
+E-commerce website for HoangMinh Company:
+- **Improved interface** with better UX/UI
+- **Advised solutions** for client requirements
+- **Theme customization** and optimization
 
-**Platform:** Flutter + Firebase  
-**Role:** Flutter Developer  
-**Team:** 2 Developers, 1 Tester, 1 PM
+<a href="https://appleworld.vn/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
 
----
-
-### 2. Familiar Japan E-commerce Website
-**Shopify** | Jul 2021 - Jan 2024
-
-Professional e-commerce website for Japanese market:
-- **Converted code** from Mockup to Shopify platform
-- **Maintained and deployed** new features
-- **Integrated APIs** for seamless functionality
-- **Responsive design** optimized for all devices
-
-[🌐 Live Website](https://familiar.co.jp/)
-
-**Platform:** Shopify  
-**Role:** Frontend Developer  
-**Team:** 2 Developers, 2 Testers, 2 PM
-
----
-
-### 3. ZENB Japan E-commerce Website
-**Shopify** | Feb 2021 - Oct 2023
-
-Premium e-commerce website for ZENB Japan - a health-focused food brand:
-- **Maintained and developed** new features for the Shopify platform
-- **Enhanced user experience** with responsive design and optimized performance
-- **Integrated custom functionalities** and third-party APIs
-- **Collaborated with design team** to implement new UI/UX improvements
-- **Ensured cross-browser compatibility** and mobile responsiveness
-
-[🌐 Live Website](https://zenb.jp/)
-
-**Platform:** Shopify  
-**Role:** Frontend Developer  
-**Team:** 4 Developers, 2 Testers, 1 PM
-
----
-
-### 4. At The Bathhouse Australia
-**Shopify** | Feb 2024 - May 2024
-
-Modern e-commerce website for Australian market:
-- **Converted design** from Figma to Shopify
-- **Maintained and deployed** features
-- **Integrated APIs** for enhanced functionality
-- **Custom theme development**
-
-[🌐 Live Website](https://atthebathhouse.com.au/)
-
-**Platform:** Shopify  
+**Platform:** Haravan  
 **Role:** Frontend Developer  
 **Team:** 2 Developers, 1 Tester, 1 PM
 
 ---
 
-### 5. Shark Tank Vietnam Startup - Amaze Dry Clean
-**WordPress** | Sep 2023 - Nov 2023 | Freelancer
+### 2. A.O SMITH VIET NAM Website
+**Haravan** | Oct 2018 - Mar 2019
 
-Professional website for Shark Tank Vietnam startup:
-- **Consulted on theme selection** and customization
-- **Maintained and deployed** features
-- **Custom development** for specific requirements
+Corporate website for A.O Smith Vietnam:
+- **Upgraded interface** with modern design
+- **Connected features** using Zeplin designs
+- **Supported API-related issues**
+- **Client consultation** and feature implementation
 
-[🌐 Live Website](https://amazedryclean.com/)
+<a href="https://aosmith.com.vn/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
 
-**Platform:** WordPress  
-**Role:** Frontend Developer (Freelancer)  
-**Team:** 1 Developer (Solo Project)
+**Platform:** Haravan  
+**Role:** Frontend Developer  
+**Team:** 1 Developers, 1 Tester, 1 PM
 
 ---
 
-### 6. Flagship Subscription App
+### 3. Flagship Subscription App
 **Shopify + Vue.js** | Jul 2020 - Apr 2021
 
 Internal subscription management application:
@@ -252,35 +208,87 @@ Internal subscription management application:
 
 ---
 
-### 7. A.O SMITH VIET NAM Website
-**Haravan** | Oct 2018 - Mar 2019
+### 4. ZENB Japan E-commerce Website
+**Shopify** | Feb 2021 - Oct 2023
 
-Corporate website for A.O Smith Vietnam:
-- **Upgraded interface** with modern design
-- **Connected features** using Zeplin designs
-- **Supported API-related issues**
-- **Client consultation** and feature implementation
+Premium e-commerce website for ZENB Japan - a health-focused food brand:
+- **Maintained and developed** new features for the Shopify platform
+- **Enhanced user experience** with responsive design and optimized performance
+- **Integrated custom functionalities** and third-party APIs
+- **Collaborated with design team** to implement new UI/UX improvements
+- **Ensured cross-browser compatibility** and mobile responsiveness
 
-[🌐 Live Website](https://aosmith.com.vn/)
+<a href="https://zenb.jp/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
 
-**Platform:** Haravan  
+**Platform:** Shopify  
 **Role:** Frontend Developer  
-**Team:** 1 Developers, 1 Tester, 1 PM
+**Team:** 4 Developers, 2 Testers, 1 PM
 
 ---
 
-### 8. HOANGMINH CO., LTD Website
-**Haravan** | Jan 2018 - Apr 2018
+### 5. Familiar Japan E-commerce Website
+**Shopify** | Jul 2021 - Jan 2024
 
-E-commerce website for HoangMinh Company:
-- **Improved interface** with better UX/UI
-- **Advised solutions** for client requirements
-- **Theme customization** and optimization
+Professional e-commerce website for Japanese market:
+- **Converted code** from Mockup to Shopify platform
+- **Maintained and deployed** new features
+- **Integrated APIs** for seamless functionality
+- **Responsive design** optimized for all devices
 
-[🌐 Live Website](https://appleworld.vn/)
+<a href="https://familiar.co.jp/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
 
-**Platform:** Haravan  
+**Platform:** Shopify  
 **Role:** Frontend Developer  
+**Team:** 2 Developers, 2 Testers, 2 PM
+
+---
+
+### 6. Shark Tank Vietnam Startup - Amaze Dry Clean
+**WordPress** | Sep 2023 - Nov 2023 | Freelancer
+
+Professional website for Shark Tank Vietnam startup:
+- **Consulted on theme selection** and customization
+- **Maintained and deployed** features
+- **Custom development** for specific requirements
+
+<a href="https://amazedryclean.com/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
+
+**Platform:** WordPress  
+**Role:** Frontend Developer (Freelancer)  
+**Team:** 1 Developer (Solo Project)
+
+---
+
+### 7. At The Bathhouse Australia
+**Shopify** | Feb 2024 - May 2024
+
+Modern e-commerce website for Australian market:
+- **Converted design** from Figma to Shopify
+- **Maintained and deployed** features
+- **Integrated APIs** for enhanced functionality
+- **Custom theme development**
+
+<a href="https://atthebathhouse.com.au/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
+
+**Platform:** Shopify  
+**Role:** Frontend Developer  
+**Team:** 2 Developers, 1 Tester, 1 PM
+
+---
+
+### 8. Drug Management System
+**Flutter + Firebase + Misa API** | Jan 2025 - Present
+
+A comprehensive drug management system with advanced features:
+- **Responsive UI** designed and implemented with Flutter (Web/iOS)
+- **MVVM Architecture** for scalable codebase
+- **Firebase Integration** (Authentication, Firestore, Storage)
+- **Misa Invoice Integration** for financial management
+- **Core Modules:** Product management, invoice creation, stock tracking, reporting dashboards
+- **Role-based access control** and multi-tenant data separation
+
+**Platform:** Flutter + Firebase  
+**Role:** Flutter Developer  
 **Team:** 2 Developers, 1 Tester, 1 PM
 
 ---
@@ -299,15 +307,37 @@ E-commerce website for HoangMinh Company:
 
 ## 📞 Contact Me
 
-<div align="center">
+<div align="center" style="background: #000000; padding: 30px; border-radius: 15px; border: 3px solid #333333; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); margin: 20px 0;">
 
-**Let's build something amazing together!**
+<div style="padding: 25px; border-radius: 10px;">
 
-📧 **Email:** [qdat.cts@gmail.com](mailto:qdat.cts@gmail.com)  
-📱 **Phone:** 0977.789.697  
-👤 **Facebook:** [facebook.com/quangdat.198](https://www.facebook.com/quangdat.198)  
-🐙 **GitHub:** [github.com/tonytran198](https://github.com/tonytran198)  
-📍 **Location:** Tien Thang, Ly Nhan District, Ha Nam Province, Vietnam
+<h3 style="color: #ffffff; margin-top: 0; font-size: 24px; font-weight: bold;">🚀 Let's build something amazing together!</h3>
+
+<div style="text-align: left; display: inline-block; margin-top: 15px;">
+
+<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
+📧 <strong>Email:</strong> <a href="mailto:qdat.cts@gmail.com" style="color: #ffffff; text-decoration: none;">qdat.cts@gmail.com</a>
+</div>
+
+<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
+📱 <strong>Phone:</strong> <span style="color: #ffffff;">0977.789.697</span>
+</div>
+
+<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
+👤 <strong>Facebook:</strong> <a href="https://www.facebook.com/quangdat.198" target="_blank" style="color: #ffffff; text-decoration: none;">facebook.com/quangdat.198</a>
+</div>
+
+<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
+🐙 <strong>GitHub:</strong> <a href="https://github.com/tonytran198" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/tonytran198</a>
+</div>
+
+<div style="margin: 12px 0; padding: 10px; background: #1a1a1a; border-radius: 8px; color: #ffffff; border-left: 4px solid #666666;">
+📍 <strong>Location:</strong> <span style="color: #ffffff;">Tien Thang, Ly Nhan District, Ha Nam Province, Vietnam</span>
+</div>
+
+</div>
+
+</div>
 
 </div>
 
