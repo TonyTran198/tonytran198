@@ -24,6 +24,59 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ---
 
+## 🛠️ Technical Skills
+
+### 🎯 Frontend Expertise
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Liquid](https://img.shields.io/badge/Liquid-222222?style=for-the-badge&logo=shopify&logoColor=white)
+
+### 🛒 E-commerce Platforms
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Haravan](https://img.shields.io/badge/Haravan-FF6B6B?style=for-the-badge&logo=haravan&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-222222?style=for-the-badge&logo=shopify&logoColor=white)
+
+### 🔌 API & Backend Integration
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FF6B6B?style=for-the-badge&logo=zeplin&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### 🔧 Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🤖 AI Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 💪 Soft Skills
+
+- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
+- **Team Building:** Experienced in fostering team connection and positive work culture
+- **Communication:** Good coordination with cross-functional teams
+- **Responsibility:** Proactive and eager to learn new technologies
+- **AI Integration:** Proficient with modern AI tools like Cursor and ChatGPT, integrating AI into workflow to accelerate development while maintaining high code quality
+- **English:** Basic skills (reading, listening, writing comprehension)
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏢 Content Writer / SEO Website | SEO HA NOI
@@ -85,59 +138,6 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 - **Implemented role-based access control** and multi-tenant data separation
 
 **Technologies:** Flutter, Dart, Firebase, MVVM Architecture, Misa API
-
----
-
-## 🛠️ Technical Skills
-
-### 🎯 Frontend Expertise
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Liquid](https://img.shields.io/badge/Liquid-222222?style=for-the-badge&logo=shopify&logoColor=white)
-
-### 🛒 E-commerce Platforms
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Haravan](https://img.shields.io/badge/Haravan-FF6B6B?style=for-the-badge&logo=haravan&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### ⚛️ Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![Hydrogen](https://img.shields.io/badge/Hydrogen-222222?style=for-the-badge&logo=shopify&logoColor=white)
-
-### 🔌 API & Backend Integration
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-FF6B6B?style=for-the-badge&logo=zeplin&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### 🔧 Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### 🤖 AI Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 💪 Soft Skills
-
-- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
-- **Team Building:** Experienced in fostering team connection and positive work culture
-- **Communication:** Good coordination with cross-functional teams
-- **Responsibility:** Proactive and eager to learn new technologies
-- **AI Integration:** Proficient with modern AI tools like Cursor and ChatGPT, integrating AI into workflow to accelerate development while maintaining high code quality
-- **English:** Basic skills (reading, listening, writing comprehension)
 
 ---
 
