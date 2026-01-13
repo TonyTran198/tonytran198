@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quangdat.198)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qdat.cts@gmail.com)
 
 *"Desire to work in a dynamic and professional environment, have access to learn new Frontend technologies for making applications and topics to improve my skills, and contribute to the development of the company and partner."*
@@ -14,10 +13,10 @@
 
 ## 📋 About Me
 
-Experienced Frontend Developer with **10+ years** of professional experience specializing in **Shopify**, **WordPress**, and **Flutter** development. Passionate about creating responsive, user-friendly web applications and cross-platform mobile solutions. Strong expertise in e-commerce platforms, theme customization, and modern frontend technologies.
+Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** development. Passionate about creating responsive, user-friendly web applications and cross-platform mobile solutions. Strong expertise in e-commerce platforms, theme customization, and modern frontend technologies.
 
 ### 🏆 Key Highlights
-- **10+ years** of professional frontend development experience
+- **8+ years** of professional frontend development experience
 - **Expert in Shopify** theme development and customization
 - **Flutter Developer** with cross-platform mobile app expertise
 - **Strong portfolio** of e-commerce websites for international clients
@@ -59,7 +58,7 @@ Experienced Frontend Developer with **10+ years** of professional experience spe
 - **Maintained and enhanced** multiple Shopify storefronts
 - **Collaborated with cross-functional teams** to deliver projects on time
 
-**Technologies:** Shopify, Liquid, JavaScript, React, Vue.js, HTML5, CSS3
+**Technologies:** Shopify, Liquid, JavaScript, Vue.js, HTML5, CSS3
 
 ### 🏢 Front Developer | HARAVAN TECHNOLOGY CORPORATION
 **Mar 2017 - Feb 2019** | Vietnam
@@ -99,12 +98,12 @@ Experienced Frontend Developer with **10+ years** of professional experience spe
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Hydrogen](https://img.shields.io/badge/Hydrogen-222222?style=for-the-badge&logo=shopify&logoColor=white)
 
-### 🔥 Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🔌 API & Backend Integration
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -120,6 +119,17 @@ Experienced Frontend Developer with **10+ years** of professional experience spe
 ### 🤖 AI Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 💪 Soft Skills
+
+- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
+- **Team Building:** Experienced in fostering team connection and positive work culture
+- **Communication:** Good coordination with cross-functional teams
+- **Responsibility:** Proactive and eager to learn new technologies
+- **AI Integration:** Proficient with modern AI tools like Cursor and ChatGPT, integrating AI into workflow to accelerate development while maintaining high code quality
+- **English:** Basic skills (reading, listening, writing comprehension)
 
 ---
 
@@ -143,7 +153,7 @@ Experienced Frontend Developer with **10+ years** of professional experience spe
 
 ## 🚀 Featured Projects
 
-### 💊 Drug Management System
+### 1. Drug Management System
 **Flutter + Firebase + Misa API** | Jan 2025 - Present
 
 A comprehensive drug management system with advanced features:
@@ -154,11 +164,13 @@ A comprehensive drug management system with advanced features:
 - **Core Modules:** Product management, invoice creation, stock tracking, reporting dashboards
 - **Role-based access control** and multi-tenant data separation
 
-**Platform:** Flutter + Firebase
+**Platform:** Flutter + Firebase  
+**Role:** Flutter Developer  
+**Team:** 2 Developers, 1 Tester, 1 PM
 
 ---
 
-### 🏪 Familiar Japan E-commerce Website
+### 2. Familiar Japan E-commerce Website
 **Shopify** | Jul 2021 - Jan 2024
 
 Professional e-commerce website for Japanese market:
@@ -169,11 +181,31 @@ Professional e-commerce website for Japanese market:
 
 [🌐 Live Website](https://familiar.co.jp/)
 
-**Platform:** Shopify
+**Platform:** Shopify  
+**Role:** Frontend Developer  
+**Team:** 2 Developers, 2 Testers, 2 PM
 
 ---
 
-### 🏖️ At The Bathhouse Australia
+### 3. ZENB Japan E-commerce Website
+**Shopify** | Feb 2021 - Oct 2023
+
+Premium e-commerce website for ZENB Japan - a health-focused food brand:
+- **Maintained and developed** new features for the Shopify platform
+- **Enhanced user experience** with responsive design and optimized performance
+- **Integrated custom functionalities** and third-party APIs
+- **Collaborated with design team** to implement new UI/UX improvements
+- **Ensured cross-browser compatibility** and mobile responsiveness
+
+[🌐 Live Website](https://zenb.jp/)
+
+**Platform:** Shopify  
+**Role:** Frontend Developer  
+**Team:** 4 Developers, 2 Testers, 1 PM
+
+---
+
+### 4. At The Bathhouse Australia
 **Shopify** | Feb 2024 - May 2024
 
 Modern e-commerce website for Australian market:
@@ -184,11 +216,13 @@ Modern e-commerce website for Australian market:
 
 [🌐 Live Website](https://atthebathhouse.com.au/)
 
-**Platform:** Shopify
+**Platform:** Shopify  
+**Role:** Frontend Developer  
+**Team:** 2 Developers, 1 Tester, 1 PM
 
 ---
 
-### 🦈 Shark Tank Vietnam Startup - Amaze Dry Clean
+### 5. Shark Tank Vietnam Startup - Amaze Dry Clean
 **WordPress** | Sep 2023 - Nov 2023 | Freelancer
 
 Professional website for Shark Tank Vietnam startup:
@@ -198,23 +232,27 @@ Professional website for Shark Tank Vietnam startup:
 
 [🌐 Live Website](https://amazedryclean.com/)
 
-**Platform:** WordPress
+**Platform:** WordPress  
+**Role:** Frontend Developer (Freelancer)  
+**Team:** 1 Developer (Solo Project)
 
 ---
 
-### 📱 Flagship Subscription App
-**Shopify + React + Vue.js** | Jul 2020 - Apr 2021
+### 6. Flagship Subscription App
+**Shopify + Vue.js** | Jul 2020 - Apr 2021
 
 Internal subscription management application:
 - **Developed and maintained** layout for subscription app
 - **Customized and refined** interface
 - **Cross-platform compatibility**
 
-**Platform:** Shopify, React, Vue.js
+**Platform:** Shopify, Vue.js  
+**Role:** Frontend Developer  
+**Team:** 1 FE Developers, 2 BE Developers, 1 Tester, 1 PM
 
 ---
 
-### 🏢 A.O SMITH VIET NAM Website
+### 7. A.O SMITH VIET NAM Website
 **Haravan** | Oct 2018 - Mar 2019
 
 Corporate website for A.O Smith Vietnam:
@@ -225,11 +263,13 @@ Corporate website for A.O Smith Vietnam:
 
 [🌐 Live Website](https://aosmith.com.vn/)
 
-**Platform:** Haravan
+**Platform:** Haravan  
+**Role:** Frontend Developer  
+**Team:** 1 Developers, 1 Tester, 1 PM
 
 ---
 
-### 🍎 HOANGMINH CO., LTD Website
+### 8. HOANGMINH CO., LTD Website
 **Haravan** | Jan 2018 - Apr 2018
 
 E-commerce website for HoangMinh Company:
@@ -239,17 +279,9 @@ E-commerce website for HoangMinh Company:
 
 [🌐 Live Website](https://appleworld.vn/)
 
-**Platform:** Haravan
-
----
-
-## 💪 Soft Skills
-
-- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
-- **Team Building:** Experienced in fostering team connection and positive work culture
-- **Communication:** Good coordination with cross-functional teams
-- **Responsibility:** Proactive and eager to learn new technologies
-- **English:** Basic skills (reading, listening, writing comprehension)
+**Platform:** Haravan  
+**Role:** Frontend Developer  
+**Team:** 2 Developers, 1 Tester, 1 PM
 
 ---
 
@@ -265,20 +297,6 @@ E-commerce website for HoangMinh Company:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📞 Contact Me
 
 <div align="center">
@@ -288,7 +306,7 @@ E-commerce website for HoangMinh Company:
 📧 **Email:** [qdat.cts@gmail.com](mailto:qdat.cts@gmail.com)  
 📱 **Phone:** 0977.789.697  
 👤 **Facebook:** [facebook.com/quangdat.198](https://www.facebook.com/quangdat.198)  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+🐙 **GitHub:** [github.com/tonytran198](https://github.com/tonytran198)  
 📍 **Location:** Tien Thang, Ly Nhan District, Ha Nam Province, Vietnam
 
 </div>
