@@ -1,0 +1,13 @@
+# Files và folders không cần deploy lên Vercel
+node_modules
+.next
+.git
+.DS_Store
+*.log
+.env*.local
+.vercel
+README.md
+PROJECT_README.md
+DESIGN_PATTERNS.md
+SETUP_IMAGE.md
+DEPLOY_VERCEL.md

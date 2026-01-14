@@ -30,7 +30,7 @@ export default function Contact() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <h3 className="text-2xl md:text-3xl font-bold text-gray-800 dark:text-gray-200 mb-4">
-            🚀 Let's build something amazing together!
+            🚀 Let&apos;s build something amazing together!
           </h3>
           <p className="text-lg text-gray-600 dark:text-gray-400 italic">
             &quot;Code is poetry written in logic&quot;
@@ -74,7 +74,7 @@ export default function Contact() {
           transition={{ duration: 0.6, delay: 0.6 }}
         >
           <p className="text-gray-600 dark:text-gray-400">
-            ⭐ <strong>Feel free to reach out if you'd like to collaborate!</strong>
+            ⭐ <strong>Feel free to reach out if you&apos;d like to collaborate!</strong>
           </p>
         </motion.div>
       </motion.div>
