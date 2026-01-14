@@ -1,11 +1,11 @@
-# 🚀 Dat Tran Quang (TonyTran) - Frontend Developer
+# Dat Tran Quang (TonyTran) - Frontend Developer
 
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quangdat.198)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qdat.cts@gmail.com)
 
-*"Desire to work in a dynamic and professional environment, have access to learn new Frontend technologies for making applications and topics to improve my skills, and contribute to the development of the company and partner."*
+*"Desire to work in a dynamic and professional environment, have access to learn new Frontend technologies for making applications and topics to improve my skills, and contribute to the development of the company and partners."*
 
 </div>
 
@@ -16,12 +16,10 @@
 Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** development. Passionate about creating responsive, user-friendly web applications and cross-platform mobile solutions. Strong expertise in e-commerce platforms, theme customization, and modern frontend technologies.
 
 ### 🏆 Key Highlights
-- **8+ years** of professional frontend development experience
-- **Expert in Shopify** theme development and customization
-- **Flutter Developer** with cross-platform mobile app expertise
-- **Strong portfolio** of e-commerce websites for international clients
-- **Team leadership** experience (Union team, Football Club Captain, Badminton Club Captain)
-
+- **8+ years** of professional frontend development experience 
+- Expert in Shopify theme development and advanced customization  
+- Delivered scalable, high-quality e-commerce solutions for clients across AU, EU, and Japan  
+- Leveraged AI-assisted workflows to improve development speed and code quality
 ---
 
 ## 🛠️ Technical Skills
@@ -68,10 +66,10 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ## 💪 Soft Skills
 
-- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
 - **Team Building:** Experienced in fostering team connection and positive work culture
 - **Communication:** Good coordination with cross-functional teams
 - **Responsibility:** Proactive and eager to learn new technologies
+- **Teamwork and Leadership:** Union team, Football Club Captain, Badminton Club Captain
 - **AI Integration:** Proficient with modern AI tools like Cursor and ChatGPT, integrating AI into workflow to accelerate development while maintaining high code quality
 - **English:** Basic skills (reading, listening, writing comprehension)
 
@@ -88,7 +86,7 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ---
 
-### 🏢 Front Developer | HARAVAN TECHNOLOGY CORPORATION
+### 🏢 Frontend Developer | HARAVAN TECHNOLOGY CORPORATION
 **Mar 2017 - Feb 2019** | Vietnam
 
 - **Created layouts** from design files (Figma, Sketch, Zeplin)
@@ -121,7 +119,7 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 - **Customized frontend** on partner applications
 - **Communicated with Backend team** for bug fixes and API integration
 - **Worked with Staffing** (Hamsa Company) for project coordination
-- **Delivered high-quality** e-commerce solutions for Japanese market
+- **Delivered high-quality** e-commerce solutions for the Japanese market
 
 **Technologies:** Shopify, Liquid, JavaScript, HTML5, CSS3, API Integration
 
@@ -177,10 +175,10 @@ E-commerce website for HoangMinh Company:
 
 ---
 
-### 2. A.O SMITH VIET NAM Website
+### 2. A.O. SMITH VIET NAM Website
 **Haravan** | Oct 2018 - Mar 2019
 
-Corporate website for A.O Smith Vietnam:
+Corporate website for A.O. Smith Vietnam:
 - **Upgraded interface** with modern design
 - **Connected features** using Zeplin designs
 - **Supported API-related issues**
@@ -190,7 +188,7 @@ Corporate website for A.O Smith Vietnam:
 
 **Platform:** Haravan  
 **Role:** Frontend Developer  
-**Team:** 1 Developers, 1 Tester, 1 PM
+**Team:** 1 Developer, 1 Tester, 1 PM
 
 ---
 
@@ -204,7 +202,7 @@ Internal subscription management application:
 
 **Platform:** Shopify, Vue.js  
 **Role:** Frontend Developer  
-**Team:** 1 FE Developers, 2 BE Developers, 1 Tester, 1 PM
+**Team:** 1 FE Developer, 2 BE Developers, 1 Tester, 1 PM
 
 ---
 
@@ -215,7 +213,7 @@ Premium e-commerce website for ZENB Japan - a health-focused food brand:
 - **Maintained and developed** new features for the Shopify platform
 - **Enhanced user experience** with responsive design and optimized performance
 - **Integrated custom functionalities** and third-party APIs
-- **Collaborated with design team** to implement new UI/UX improvements
+- **Collaborated with the design team** to implement new UI/UX improvements
 - **Ensured cross-browser compatibility** and mobile responsiveness
 
 <a href="https://zenb.jp/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
@@ -229,7 +227,7 @@ Premium e-commerce website for ZENB Japan - a health-focused food brand:
 ### 5. Familiar Japan E-commerce Website
 **Shopify** | Jul 2021 - Jan 2024
 
-Professional e-commerce website for Japanese market:
+Professional e-commerce website for the Japanese market:
 - **Converted code** from Mockup to Shopify platform
 - **Maintained and deployed** new features
 - **Integrated APIs** for seamless functionality
@@ -262,7 +260,7 @@ Professional website for Shark Tank Vietnam startup:
 ### 7. At The Bathhouse Australia
 **Shopify** | Feb 2024 - May 2024
 
-Modern e-commerce website for Australian market:
+Modern e-commerce website for the Australian market:
 - **Converted design** from Figma to Shopify
 - **Maintained and deployed** features
 - **Integrated APIs** for enhanced functionality
@@ -295,13 +293,13 @@ A comprehensive drug management system with advanced features:
 
 ## 🎨 Hobbies & Interests
 
-- 🎨 Painting
-- 🏃 Outdoor activities and teamwork activities
-- ✈️ Traveling
-- 🏸 Playing badminton
-- 🏊 Swimming
-- ⚽ Soccer
-- 🏃 Running
+🎨 Painting
+🏃 Outdoor activities and teamwork activities
+✈️ Traveling
+🏸 Playing badminton
+🏊 Swimming
+⚽ Soccer
+🏃 Running
 
 ---
 
