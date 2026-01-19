@@ -293,13 +293,13 @@ A comprehensive drug management system with advanced features:
 
 ## 🎨 Hobbies & Interests
 
-🎨 Painting
-🏃 Outdoor activities and teamwork activities
-✈️ Traveling
-🏸 Playing badminton
-🏊 Swimming
-⚽ Soccer
-🏃 Running
+- 🎨 Painting
+- 🏃 Outdoor activities and teamwork activities
+- ✈️ Traveling
+- 🏸 Playing badminton
+- 🏊 Swimming
+- ⚽ Soccer
+- 🏃 Running
 
 ---
 
