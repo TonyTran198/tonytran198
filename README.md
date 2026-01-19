@@ -34,6 +34,7 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Haravan](https://img.shields.io/badge/Haravan-FF6B6B?style=for-the-badge&logo=haravan&logoColor=white)
+![Neto](https://img.shields.io/badge/Neto-FF6B6B?style=for-the-badge&logo=Neto&logoColor=white)
 
 ### ⚛️ Frameworks & Frontend Architecture
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
