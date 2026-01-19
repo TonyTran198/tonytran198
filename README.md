@@ -37,7 +37,6 @@ Experienced Frontend Developer in **Shopify**, **WordPress**, and **Flutter** de
 
 ### ⚛️ Frameworks & Frontend Architecture
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![Hydrogen](https://img.shields.io/badge/Hydrogen-222222?style=for-the-badge&logo=shopify&logoColor=white)
 
 ### 📱 Mobile Development
