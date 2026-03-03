@@ -241,7 +241,23 @@ Professional e-commerce website for the Japanese market:
 
 ---
 
-### 6. Shark Tank Vietnam Startup - Amaze Dry Clean
+### 6. Sky Soles US
+**Shopify** | Jan 2023 - Mar 2023 | Freelancer
+
+Modern e-commerce website for the US market:
+- **Converted design** from Adobe XD to Shopify
+- **Custom theme development**
+- **Maintained and deployed** features
+
+<a href="https://us.skysoles.com/" target="_blank" rel="noopener noreferrer">🌐 Live Website</a>
+
+**Platform:** Shopify  
+**Role:** Frontend Developer (Freelancer)  
+**Team:** 1 Developer, 1 PM, 1 Tester
+
+---
+
+### 7. Shark Tank Vietnam Startup - Amaze Dry Clean
 **WordPress** | Sep 2023 - Nov 2023 | Freelancer
 
 Professional website for Shark Tank Vietnam startup:
@@ -257,7 +273,7 @@ Professional website for Shark Tank Vietnam startup:
 
 ---
 
-### 7. At The Bathhouse Australia
+### 8. At The Bathhouse Australia
 **Shopify** | Feb 2024 - May 2024
 
 Modern e-commerce website for the Australian market:
@@ -274,7 +290,7 @@ Modern e-commerce website for the Australian market:
 
 ---
 
-### 8. Drug Management System
+### 9. Drug Management System
 **Flutter + Firebase + Misa API** | Jan 2025 - Present
 
 A comprehensive drug management system with advanced features:
